@@ -1,0 +1,10 @@
+server:
+- url: /ws
+- url: /text
+- url: /list
+
+client:
+- url: /
+  match: postregex
+  dir: web
+
