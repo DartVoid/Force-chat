@@ -1,7 +1,7 @@
 Force-chat
 =======================
 
-This is a sample chat app built with the [Dart Force](https://github.com/jorishermans/force) package. 
+This is a sample chat app built with the [Dart Force](https://github.com/ForceUniverse/dart-force) package. 
 To run on localhost, open the project in the Dart Editor, start the server and 
 client.
 
